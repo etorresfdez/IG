@@ -1,5 +1,7 @@
 **Prácticas de Informática Gráfica**
 
+Lenguaje C++ usando la librería de OpenGL.
+
 *Práctica 0 - Prerrequisitos, materiales y compilación*
 
 *Práctica 1 - Visualización de modelos simples*
