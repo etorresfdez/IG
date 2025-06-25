@@ -1,4 +1,4 @@
-**Prácticas de Informática Gráfica**
+**Prácticas de Informática Gráfica. Curso 23/24**
 
 Lenguaje C++ usando la librería de OpenGL.
 
